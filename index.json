@@ -1,0 +1,11 @@
+{
+  "org": "skypilot-org",
+  "repo": "airflow-provider-skypilot",
+  "versions": [
+    {
+      "commit": "aedad84786f567536f9540ccd726f1cb8d9f5443",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:35:52.374614+00:00"
+    }
+  ]
+}
