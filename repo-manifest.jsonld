@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/skypilot-org/airflow-provider-skypilot/commit/aedad84786f567536f9540ccd726f1cb8d9f5443",
       "git:hexsha": "aedad84786f567536f9540ccd726f1cb8d9f5443",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:35:52.374188+00:00"
     },
     {
       "@id": "https://repolex.ai/r/skypilot-org/airflow-provider-skypilot/commit/a6779a9d684124e9735451741f6ec85020a806ca",
